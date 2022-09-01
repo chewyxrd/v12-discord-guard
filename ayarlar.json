@@ -1,0 +1,18 @@
+{
+    "token": "BOT TOKEN",
+    "sahip": "SAHİP ID",
+    "prefix": "!",
+
+    "kanallog": "KANAL LOG ID",
+    "rollog": "ROL LOG ID",
+    "banlog": "BAN LOG ID",
+    "emojilog": "EMOJİ LOG ID",
+    "mesajlog": "MESAJ LOG ID",
+
+    "kanalkoruma": "KANAL KORUMA KANAL ID",
+    "rolkoruma": "ROL KORUMA KANAL ID",
+
+    "yes": "ONAY EMOJİ ID",
+    "no": "ÇARPI EMOJİ ID",
+    "gem": "💎"
+}
